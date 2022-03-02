@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "iosfwd": "cpp",
+    "deque": "cpp",
+    "utility": "cpp",
+    "stack": "cpp",
+    "string": "cpp",
+    "queue": "cpp",
+    "vector": "cpp",
+    "ios": "cpp",
+    "istream": "cpp",
+    "__locale": "cpp",
+    "ostream": "cpp"
+  }
+}
